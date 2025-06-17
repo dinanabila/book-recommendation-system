@@ -99,13 +99,13 @@ Selanjutnya, berikut variabel-variabel yang tersedia dalam dataset **Kaggle Book
 
 ### Exploratory Data Analysis
 
-<img src="images/books_df-info.PNG" alt="Plot 20 Genre dengan Jumlah Buku Terbanyak" width="100%">
+<img src="images/books_df-info.png" alt="Plot 20 Genre dengan Jumlah Buku Terbanyak" width="100%">
 
-<img src="images/ratings_df-info.PNG" alt="Plot 20 Genre dengan Jumlah Buku Terbanyak" width="100%">
+<img src="images/ratings_df-info.png" alt="Plot 20 Genre dengan Jumlah Buku Terbanyak" width="100%">
 
-<img src="images/users_df-info.PNG" alt="Plot 20 Genre dengan Jumlah Buku Terbanyak" width="100%">
+<img src="images/users_df-info.png" alt="Plot 20 Genre dengan Jumlah Buku Terbanyak" width="100%">
 
-<img src="images/genres_df.info.PNG" alt="Plot 20 Genre dengan Jumlah Buku Terbanyak" width="100%">
+<img src="images/genres_df.info.png" alt="Plot 20 Genre dengan Jumlah Buku Terbanyak" width="100%">
 
 
 **Insights:**
